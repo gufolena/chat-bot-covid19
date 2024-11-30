@@ -1,0 +1,6 @@
+customtkinter 
+pillow 
+requests 
+unicodedata2 
+pyttsx3 
+pyinstaller 
