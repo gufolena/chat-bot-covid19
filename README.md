@@ -48,4 +48,6 @@ Este projeto é um chatbot interativo, chamado **CovidBot**, que fornece informa
 - pipenv run pyinstaller --onefile --windowed --icon=injecao.ico --add-data "injecao.ico:." --hidden-import=customtkinter --hidden-import=requests --hidden-import=pyttsx3 chat_bot_covid19.py
 
 
+6. Execute o arquivo executável chat_bot_covid19.exe
 
+- Abra a pasta dist e clique para executar o arquivo
